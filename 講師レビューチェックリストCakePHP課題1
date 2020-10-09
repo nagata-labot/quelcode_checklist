@@ -156,6 +156,7 @@ composer install
 
 ## メモ
 
+### 名称
 - User : ユーザー情報
 - Biditem : 商品情報
 - Bidrequest : 入札情報
@@ -165,3 +166,11 @@ composer install
 - User id 2 : user1（一般ユーザー1）
 - User id 3 : admin2（予備）
 - User id 4 : user2（予備）
+
+### ブランチ
+
+- master : 教科書を進めるためのブランチです。
+- cakephp-challenge : 課題用の元ブランチです。masterを元に作成。
+- feature/cakephp-challenge1 : CakePHP課題1用のブランチ。cakephp-challengeを元に作成。
+- feature/cakephp-challenge2 : CakePHP課題2用のブランチ。cakephp-challengeを元に作成。
+
